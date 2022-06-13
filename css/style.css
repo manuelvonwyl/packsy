@@ -627,6 +627,12 @@
     }
 
 /* Form */
+    @media screen and (max-height: 850px){
+        #contact {
+            padding-bottom: 250px;
+        }
+    }
+
     button {
         /* margin-top: 1em; */
         border: none;
